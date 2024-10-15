@@ -40,3 +40,4 @@ final_image = cv2.rectangle(img, (v1, z1), (v2, z2), (0, 255, 0), 5)
 
 pl.imshow(cv2.cvtColor(final_image, cv2.COLOR_BGR2RGB))
 pl.show()
+#редактируюу код для пр4
